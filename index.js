@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 import inquirer from "inquirer";
 // Initialize user balance and pin code
 let myBalance = 15000; //Dollar

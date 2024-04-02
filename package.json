@@ -1,6 +1,6 @@
 {
-  "name": "atm-machine",
-  "version": "1.0.0",
+  "name": "zohaib01-atm-machine",
+  "version": "2.0.0",
   "description": "This is a Atm-Machine.",
   "main": "index.js",
   "type": "module",
